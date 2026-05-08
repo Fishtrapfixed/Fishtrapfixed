@@ -1,16 +1,25 @@
-## Hi there 👋
+# FishtrapFixed
 
-<!--
-**Fishtrapfixed/Fishtrapfixed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fishtrap fixed!!!
 
-Here are some ideas to get you started:
+## Features
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Fast flags are back
+* Auto update
+* Performance improvements
+* Game customization
+
+  * Cursor
+  * Sounds
+  * Avatar editor background
+  * In-game textures
+
+## Safety
+
+This application is not malware or a trojan.
+
+You can scan the file yourself using VirusTotal or Windows Defender.
+
+## Download
+
+Download the latest version in Releases.
