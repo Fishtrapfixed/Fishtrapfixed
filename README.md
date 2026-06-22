@@ -23,3 +23,8 @@ You can scan the file yourself using VirusTotal or Windows Defender.
 ## Download
 
 Download the latest version in Releases.
+
+
+
+
+## ACTUALLY PATCH
